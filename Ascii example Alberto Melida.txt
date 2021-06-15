@@ -25,3 +25,15 @@ I also created the validation plan for the Salesforce implementation: ***Salesfo
 	* User Requirements Specifications
 	* Users and Permissions Review
 	* Operation Qualifiction	
+
+##Contact lenses manufacturer
+Main documents used in Elanco
+
+* Master Document List
+* Validation Plan
+* Requirements / Project description
+* Source Code Review
+* Test scritps
+* Requirements Traceability Matrix
+* Test Summary and Validation Report
+*  
