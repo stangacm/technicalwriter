@@ -1,0 +1,27 @@
+# Example
+This is an example of a simple text document (ASCII)
+
+##Roche
+I don't keep examples from my first projects. Rogelio Mier can provide references from Project Library and Enroll.
+I created a validation document for a new Webex Plugin.
+
+##Lilly/Elanco
+Example of Low Risk Validation
+Access roster review
+
+* Example of Low Risk Validation
+	* Validation Document & Access Roster Review
+* Static Site Validation Packages
+* CAPAS (Not Available)
+
+##Contact lenses manufacturer
+I created a validation plan for several tools used in a Contact Lenses Manufacturer (Not available)
+
+I also created the validation plan for the Salesforce implementation: ***Salesforce complaints registration module***
+
+* Validation summary
+	* Validation Plan
+		* Risk Analysys, Validation Strategy, etc. 
+	* User Requirements Specifications
+	* Users and Permissions Review
+	* Operation Qualifiction	
